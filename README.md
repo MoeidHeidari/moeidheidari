@@ -1,4 +1,6 @@
 ### Hi there 👋
+As a solution-driven IT professional with 10+ years of experience in creating smart, next- generation software for multiple platforms such as mobile, web, desktop, as well as video games for well-established organizations, I look forward to bringing my strong technical and analytical skills to a higher level.
+In my career, I am looking to enhance my technical skills in backend development, SOLID architecture design, Micro-service pattern,Data-driven development, test-driven development,deployment automation pipeline, cloud-native programming, and provisioning,
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moeidheidari&theme=tokyonight&hide_border=true)](https://github.com/moeidheidari)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeidheidari&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/moeidheidari)
 <!--
