@@ -18,7 +18,7 @@ Contact me through
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeidheidari)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:moeidtopcoder2@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeidheidari&theme=tokyonight&hide_border=true" width="350" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeidheidari&layout=compact&theme=tokyonight&hide_border=true" width="85%" hight="10%" >
 
 ### Back-End Skills:
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
