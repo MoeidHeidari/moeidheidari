@@ -4,21 +4,23 @@
 ![Repos](https://badges.pufler.dev/repos/moeidheidari)
 
 
-
 As a solution-driven IT professional with 10+ years of experience in creating smart, next- generation software for multiple platforms such as mobile, web, desktop, as well as video games for well-established organizations, I look forward to bringing my strong technical and analytical skills to a higher level.
 In my career, I am looking to enhance my technical skills in backend development, SOLID architecture design, Micro-service pattern,Data-driven development, test-driven development,deployment automation pipeline, cloud-native programming, and provisioning.
 
+---
 
 <p float="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=moeidheidari&theme=tokyonight&hide_border=true" width="420">
   <img src="https://github-readme-stats.vercel.app/api?username=moeidheidari&show_icons=true&theme=tokyonight&hide_border=true" width="420">
 </p>
-Contact me through
+
+### Contact me through
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeidheidari)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:moeidtopcoder2@gmail.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeidheidari&layout=compact&theme=tokyonight&hide_border=true" width="100%" hight="10%" >
+---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeidheidari&layout=compact&theme=tokyonight&hide_border=true" width="100%" >
 
 ### Back-End Skills:
 ![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
