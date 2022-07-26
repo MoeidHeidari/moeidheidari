@@ -1,7 +1,4 @@
 ## Hi there
-
-![Visits](https://badges.pufler.dev/visits/moeidheidari/moeidheidari)
-![Repos](https://badges.pufler.dev/repos/moeidheidari)
 ![](https://komarev.com/ghpvc/?username=moeidheidari)
 
 
