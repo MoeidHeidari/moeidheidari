@@ -2,8 +2,12 @@
 ![](https://komarev.com/ghpvc/?username=moeidheidari)
 
 
-As a solution-driven IT professional with 10+ years of experience in creating smart, next- generation software for multiple platforms such as mobile, web, desktop, as well as video games for well-established organizations, I look forward to bringing my strong technical and analytical skills to a higher level.
-In my career, I am looking to enhance my technical skills in backend development, SOLID architecture design, Micro-service pattern,Data-driven development, test-driven development,deployment automation pipeline, cloud-native programming, and provisioning.
+With over 14 years of experience as a solution-driven IT professional, I have successfully developed cutting-edge software solutions for various platforms, including mobile, web, desktop, and video games, within esteemed organizations. Now, I am eager to leverage my extensive technical expertise and analytical skills to reach new heights. My focus lies in advancing my backend development skills, mastering SOLID architecture design, implementing Micro-service patterns, driving Data-driven development, adopting test-driven development practices, establishing deployment automation pipelines, embracing cloud-native programming, and honing my proficiency in provisioning and DevOps methodologies.
+
+Simultaneously, I am pursuing a Ph.D. in computer science to fulfill my career aspiration of becoming a senior researcher in my field of interest. My research interests encompass a wide range of areas, including program static and dynamic analysis, Micro-architectural optimization, Compiler engineering, automatic code optimization implementation, Code advisors, High-Performance Computing (HPC), as well as instruction and memory level parallelism in Parallel computing.
+
+By combining my practical experience and academic pursuits, I am dedicated to pushing the boundaries of technological innovation and making significant contributions to the ever-evolving field of computer science.
+
 
 ---
 
