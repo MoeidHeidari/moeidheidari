@@ -1,12 +1,7 @@
 ## Hi there
 ![](https://komarev.com/ghpvc/?username=moeidheidari)
 
-
-With over 14 years of experience as a solution-driven IT professional, I have successfully developed cutting-edge software solutions for various platforms, including mobile, web, desktop, and video games, within esteemed organizations. Now, I am eager to leverage my extensive technical expertise and analytical skills to reach new heights. My focus lies in advancing my backend development skills, mastering SOLID architecture design, implementing Micro-service patterns, driving Data-driven development, adopting test-driven development practices, establishing deployment automation pipelines, embracing cloud-native programming, and honing my proficiency in provisioning and DevOps methodologies.
-
-Simultaneously, I am pursuing a Ph.D. in computer science to fulfill my career aspiration of becoming a senior researcher in my field of interest. My research interests encompass a wide range of areas, including program static and dynamic analysis, Micro-architectural optimization, Compiler engineering, automatic code optimization implementation, Code advisors, High-Performance Computing (HPC), as well as instruction and memory level parallelism in Parallel computing.
-
-By combining my practical experience and academic pursuits, I am dedicated to pushing the boundaries of technological innovation and making significant contributions to the ever-evolving field of computer science.
+As an IT professional with 14+ years of experience, I've developed advanced software solutions across platforms including mobile, web, and gaming. I aim to further enhance my backend development, SOLID design, Micro-service patterns, and DevOps methodologies among others. I'm also pursuing a Ph.D. in Computer Science, focusing on areas such as static and dynamic analysis, micro-architectural optimization, and parallel computing. By merging practical and academic knowledge, I'm committed to pushing tech innovation boundaries in computer science.
 
 
 ---
