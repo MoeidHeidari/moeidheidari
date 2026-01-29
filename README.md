@@ -14,27 +14,24 @@ Currently focused on **Java**, **Go**, and **Node.js** backend development, clou
 Passionate about infrastructure automation, distributed systems, and software architecture.
 
 ---
-<div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+<div style="display: block; flex-wrap: wrap; gap: 3px; align-items: center;">
 
   <!-- Profile Intro -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=tokyonight" style="width: 100%; max-width: 600px; height: auto;" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=tokyonight" height="165" alt="Profile Details" />
 
   <!-- Top Languages By Repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moeidheidari&theme=tokyonight" style="width: 100%; max-width: 600px; height: auto;" alt="Languages (By Repo)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moeidheidari&theme=tokyonight" height="165" alt="Languages (By Repo)" />
 
   <!-- Top Languages By Commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moeidheidari&theme=tokyonight" style="width: 100%; max-width: 600px; height: auto;" alt="Languages (By Commits)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moeidheidari&theme=tokyonight" height="165" alt="Languages (By Commits)" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moeidheidari&theme=tokyonight" style="width: 100%; max-width: 600px; height: auto;" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moeidheidari&theme=tokyonight" height="165" alt="GitHub Stats" />
 
   <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moeidheidari&theme=tokyonight&utcOffset=0" style="width: 100%; max-width: 600px; height: auto;" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moeidheidari&theme=tokyonight&utcOffset=0" height="165" alt="Productive Time" />
 
 </div>
-
-
-
 
 
 <br />
