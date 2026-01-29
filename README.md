@@ -6,12 +6,41 @@ Currently focused on **Java**, **Go**, and **Node.js** backend development, clou
 Passionate about infrastructure automation, distributed systems, and software architecture.
 
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=moeidheidari&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=moeidheidari&theme=tokyonight" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=moeidheidari&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=tokyonight" height="165" alt="Profile Summary" />
+<div style="display: flex; flex-wrap: wrap; gap: 3px; align-items: center;">
+
+  <!-- Profile Intro -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=tokyonight" height="165" alt="Profile Details" />
+
+  <!-- Top Languages By Repo -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moeidheidari&theme=tokyonight" height="165" alt="Languages (By Repo)" />
+
+  <!-- Top Languages By Commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moeidheidari&theme=tokyonight" height="165" alt="Languages (By Commits)" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moeidheidari&theme=tokyonight" height="165" alt="GitHub Stats" />
+
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moeidheidari&theme=tokyonight&utcOffset=0" height="165" alt="Productive Time" />
+
+  <!-- Pinned Popular Repo -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moeidheidari&repo=crossview&theme=tokyonight" height="165" alt="Popular Repo" />
+
+  <!-- Repo Count -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-count?username=moeidheidari&theme=tokyonight" height="165" alt="Repo Count" />
+
+  <!-- Followers -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/followers?username=moeidheidari&theme=tokyonight" height="165" alt="Followers" />
+
+  <!-- Stars -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stars?username=moeidheidari&theme=tokyonight" height="165" alt="Stars" />
+
+  <!-- Commit Activity (Last Week) -->
+  <img src="https://github-readme-stats.vercel.app/api/commit-activity-week?username=moeidheidari&theme=tokyonight" height="165" alt="Commit Activity" />
+
 </div>
+
+
 
 <br />
 
