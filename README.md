@@ -13,7 +13,6 @@ I’m a Cloud & Backend Engineer with 14+ years of experience building scalable,
 Currently focused on **Java**, **Go**, and **Node.js** backend development, cloud engineering with **AWS**, **Kubernetes**, and **GitOps**.  
 Passionate about infrastructure automation, distributed systems, and software architecture.
 
----
 <div style="display: block; flex-wrap: wrap; gap: 3px; align-items: center;">
 
   <!-- Profile Intro -->
@@ -40,8 +39,6 @@ Passionate about infrastructure automation, distributed systems, and software ar
 
 
 <br />
-
----
 
 ### 🛠️ Backend Skills  
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)  
