@@ -5,9 +5,10 @@ I am a Cloud & Backend Engineer focusing on Java, Go, Node.js, AWS, Kubernetes, 
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moeidheidari&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="420" />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=moeidheidari&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=moeidheidari&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420" />
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=moeidheidari&theme=tokyonight)
+
 
 ---
 
