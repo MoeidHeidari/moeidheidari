@@ -1,5 +1,13 @@
 ## Hi there 👋  
-![](https://komarev.com/ghpvc/?username=moeidheidari&color=blue)
+<div style="display: flex; flex-wrap: wrap; gap: 3px; align-items: center;">
+  <img src="https://komarev.com/ghpvc/?username=moeidheidari" height="30" alt="visits" />
+    <!-- Followers badge -->
+  <img src="https://img.shields.io/github/followers/moeidheidari?style=social" height="30" alt="Followers" />
+
+  <!-- Stars badge -->
+  <img src="https://img.shields.io/github/stars/moeidheidari?style=social" height="30" alt="Stars" />
+  </div>
+
 
 I’m a Cloud & Backend Engineer with 14+ years of experience building scalable, reliable systems.  
 Currently focused on **Java**, **Go**, and **Node.js** backend development, cloud engineering with **AWS**, **Kubernetes**, and **GitOps**.  
@@ -23,22 +31,9 @@ Passionate about infrastructure automation, distributed systems, and software ar
   <!-- Productive Time -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moeidheidari&theme=tokyonight&utcOffset=0" height="165" alt="Productive Time" />
 
-  <!-- Pinned Popular Repo -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moeidheidari&repo=crossview&theme=tokyonight" height="165" alt="Popular Repo" />
-
-  <!-- Repo Count -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-count?username=moeidheidari&theme=tokyonight" height="165" alt="Repo Count" />
-
-  <!-- Followers -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/followers?username=moeidheidari&theme=tokyonight" height="165" alt="Followers" />
-
-  <!-- Stars -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stars?username=moeidheidari&theme=tokyonight" height="165" alt="Stars" />
-
-  <!-- Commit Activity (Last Week) -->
-  <img src="https://github-readme-stats.vercel.app/api/commit-activity-week?username=moeidheidari&theme=tokyonight" height="165" alt="Commit Activity" />
 
 </div>
+
 
 
 
