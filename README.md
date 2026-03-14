@@ -16,19 +16,19 @@ Passionate about infrastructure automation, distributed systems, and software ar
 <div style="display: block; flex-wrap: wrap; gap: 3px; align-items: center;">
 
   <!-- Profile Intro -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=tokyonight" height="165" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=default" height="165" alt="Profile Details" />
 
   <!-- Top Languages By Repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moeidheidari&theme=tokyonight" height="165" alt="Languages (By Repo)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moeidheidari&theme=default" height="165" alt="Languages (By Repo)" />
 
   <!-- Top Languages By Commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moeidheidari&theme=tokyonight" height="165" alt="Languages (By Commits)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moeidheidari&theme=default" height="165" alt="Languages (By Commits)" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moeidheidari&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moeidheidari&theme=default" height="165" alt="GitHub Stats" />
 
   <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moeidheidari&theme=tokyonight&utcOffset=0" height="165" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moeidheidari&theme=default&utcOffset=0" height="165" alt="Productive Time" />
 
 </div>
 
@@ -40,23 +40,22 @@ Passionate about infrastructure automation, distributed systems, and software ar
 
 <br />
 
-### 🛠️ Backend Skills  
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)  
-![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00ADD8)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)  
+### Backend Skills  
+![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)  ![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00ADD8)  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript&logoColor=007ACC)
 
-### ☁️ Cloud & DevOps  
+
+### Cloud & DevOps  
 - AWS (EC2, EKS, Lambda, IAM, CloudFormation, Terraform)  
 - Kubernetes, Helm, GitOps (ArgoCD, Flux)  
 - Docker, Jenkins, GitHub Actions, GitLab CI/CD  
 - ELK Stack, Prometheus, Grafana  
 - Keycloak, OAuth/OIDC  
 
-### 🗄️ Databases  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=336791)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)  
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)
+### Databases  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=FFFFFF)  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=FFFFFF)  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)
+
+
 
 ---
 
