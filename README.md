@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Hi there
 <div style="display: flex; flex-wrap: wrap; gap: 3px; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=moeidheidari" height="30" alt="visits" />
     <!-- Followers badge -->
@@ -41,8 +41,8 @@ Passionate about infrastructure automation, distributed systems, and software ar
 <br />
 
 ### Backend Skills  
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)  ![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00ADD8)  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript&logoColor=007ACC)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)  ![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00ADD8)  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript&logoColor=007ACC)
+
 
 
 ### Cloud & DevOps  
@@ -59,12 +59,12 @@ Passionate about infrastructure automation, distributed systems, and software ar
 
 ---
 
-### 📫 Contact Me  
+### Contact Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeidheidari)  
-[![ADPList](https://img.shields.io/badge/-ADPList-FF5A5F?style=for-the-badge&logo=adplist&logoColor=white)](https://adplist.org/mentors/moeid-heidari)  
-[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@moeidheidari)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeidtopcoder2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeidheidari)  [![ADPList](https://img.shields.io/badge/-ADPList-FF5A5F?style=for-the-badge&logo=adplist&logoColor=white)](https://adplist.org/mentors/moeid-heidari)  [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@moeidheidari) [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeidtopcoder2@gmail.com)
+
+ 
+
 
 ---
 
