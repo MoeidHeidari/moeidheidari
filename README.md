@@ -13,6 +13,8 @@ I’m a Cloud & Backend Engineer with 14+ years of experience building scalable,
 Currently focused on **Java**, **Go**, and **Node.js** backend development, cloud engineering with **AWS**, **Kubernetes**, and **GitOps**.  
 Passionate about infrastructure automation, distributed systems, and software architecture.
 
+**Maintainer of [Crossview](https://github.com/crossplane-contrib/crossview) and [Kikplate](https://github.com/kikplate/kikplate).**
+
 <div style="display: block; flex-wrap: wrap; gap: 3px; align-items: center;">
 
   <!-- Profile Intro -->
