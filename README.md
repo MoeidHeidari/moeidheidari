@@ -29,7 +29,7 @@
 
 ## Technology
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <tr>
 <td width="50%" valign="top">
 
@@ -101,7 +101,7 @@
 
 ## Featured Projects
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <tr>
 <td width="50%" valign="top">
 
@@ -167,7 +167,7 @@ A collaboration platform connecting people around ideas and helping them build t
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=github_dark" alt="Profile summary"/>
 </p>
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed;">
 <tr>
 <td width="50%" valign="top">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moeidheidari&theme=github_dark" alt="GitHub statistics"/>
