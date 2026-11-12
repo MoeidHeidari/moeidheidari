@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/moeidheidari">LinkedIn</a> ·
   <a href="https://github.com/moeidheidari">GitHub</a> ·
+  <a href="https://coidea.co">CoIdea</a> ·
   <a href="https://medium.com/@moeidheidari">Medium</a>
 </p>
 
@@ -128,27 +129,26 @@ Open-source engineering project focused on reusable software and platform capabi
 <tr>
 <td width="50%" valign="top">
 
-### [CoIdea](https://coidea.co)
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-A collaboration platform connecting people around ideas and helping them build teams.
-
-**Role:** Founder & Engineer
-
-</td>
-<td width="50%" valign="top">
-
-### Engineering Focus
+### Platform Engineering
 
 - Internal Developer Platforms
 - Cloud-native architecture
 - Infrastructure orchestration
-- Distributed systems
+- Kubernetes ecosystem
 - Developer experience
-- Open-source ecosystems
+- Platform automation
+
+</td>
+<td width="50%" valign="top">
+
+### Distributed Systems
+
+- Event-driven architecture
+- Distributed data systems
+- Messaging and streaming
+- Scalable microservices
+- System reliability
+- Cloud-native applications
 
 </td>
 </tr>
