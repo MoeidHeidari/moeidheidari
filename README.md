@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/moeidheidari">LinkedIn</a> ·
   <a href="https://github.com/moeidheidari">GitHub</a> ·
-  <a href="https://coidea.co">CoIdea</a> ·
   <a href="https://medium.com/@moeidheidari">Medium</a>
 </p>
 
