@@ -1,73 +1,201 @@
-## Hi there
-<div style="display: flex; flex-wrap: wrap; gap: 3px; align-items: center;">
-  <img src="https://komarev.com/ghpvc/?username=moeidheidari" height="30" alt="visits" />
-    <!-- Followers badge -->
-  <img src="https://img.shields.io/github/followers/moeidheidari?style=social" height="30" alt="Followers" />
+# Moeid Heidari
 
-  <!-- Stars badge -->
-  <img src="https://img.shields.io/github/stars/moeidheidari?style=social" height="30" alt="Stars" />
-  </div>
+<p align="center">
+  <strong>Senior Platform Engineer</strong><br/>
+  Cloud-Native Infrastructure · Distributed Systems · Developer Platforms
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/moeidheidari">LinkedIn</a> ·
+  <a href="https://github.com/moeidheidari">GitHub</a> ·
+  <a href="https://coidea.co">CoIdea</a> ·
+  <a href="https://medium.com/@moeidheidari">Medium</a>
+</p>
 
-I’m a Cloud & Backend Engineer with 14+ years of experience building scalable, reliable systems.  
-Currently focused on **Java**, **Go**, and **Node.js** backend development, cloud engineering with **AWS**, **Kubernetes**, and **GitOps**.  
-Passionate about infrastructure automation, distributed systems, and software architecture.
-
-**Maintainer of [Crossview](https://github.com/crossplane-contrib/crossview) and [Kikplate](https://github.com/kikplate/kikplate).**
-
-<div style="display: block; flex-wrap: wrap; gap: 3px; align-items: center;">
-
-  <!-- Profile Intro -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=default" height="165" alt="Profile Details" />
-
-  <!-- Top Languages By Repo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moeidheidari&theme=default" height="165" alt="Languages (By Repo)" />
-
-  <!-- Top Languages By Commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moeidheidari&theme=default" height="165" alt="Languages (By Commits)" />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moeidheidari&theme=default" height="165" alt="GitHub Stats" />
-
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moeidheidari&theme=default&utcOffset=0" height="165" alt="Productive Time" />
-
-</div>
-
-
-<br />
-
-
-
-
-<br />
-
-### Backend Skills  
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=007396)  ![Go](https://img.shields.io/badge/-Go-000?&logo=go&logoColor=00ADD8)  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=339933)  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript&logoColor=007ACC)
-
-
-
-### Cloud & DevOps  
-- AWS (EC2, EKS, Lambda, IAM, CloudFormation, Terraform)  
-- Kubernetes, Helm, GitOps (ArgoCD, Flux)  
-- Docker, Jenkins, GitHub Actions, GitLab CI/CD  
-- ELK Stack, Prometheus, Grafana  
-- Keycloak, OAuth/OIDC  
-
-### Databases  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&logoColor=FFFFFF)  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=FFFFFF)  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=4479A1)
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moeidheidari&style=for-the-badge&color=334155&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/moeidheidari?style=for-the-badge&color=334155&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/moeidheidari?style=for-the-badge&color=334155&label=STARS" alt="Stars"/>
+</p>
 
 ---
 
-### Contact Me  
+<p align="center">
+  Building scalable platforms, distributed systems, and cloud-native infrastructure.
+  <br/>
+  <strong>Open-source maintainer of Crossview and Kikplate.</strong>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeidheidari)  [![ADPList](https://img.shields.io/badge/-ADPList-FF5A5F?style=for-the-badge&logo=adplist&logoColor=white)](https://adplist.org/mentors/moeid-heidari)  [![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=ffffff)](https://medium.com/@moeidheidari) [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeidtopcoder2@gmail.com)
+## Technology
 
- 
+<table>
+<tr>
+<td width="50%" valign="top" height="190">
 
+### Languages & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,go,ts,js,python,nodejs" />
+</p>
+
+- Java & Spring Boot
+- Go & REST APIs
+- Node.js & TypeScript
+- Microservices
+- Event-driven architecture
+
+</td>
+<td width="50%" valign="top" height="190">
+
+### Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible" />
+</p>
+
+- AWS & Azure
+- Kubernetes & Helm
+- Crossplane
+- Terraform
+- Infrastructure as Code
+- GitOps
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" height="190">
+
+### Data & Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" />
+</p>
+
+- PostgreSQL & MySQL
+- MongoDB & Redis
+- Apache Kafka
+- Event streaming
+- Distributed data systems
+
+</td>
+<td width="50%" valign="top" height="190">
+
+### DevOps & Observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,prometheus,grafana,elasticsearch" />
+</p>
+
+- CI/CD & GitOps
+- Prometheus & Grafana
+- ELK Stack
+- OAuth2 & OpenID Connect
+- Automation & Monitoring
+
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ Thanks for stopping by! Feel free to connect or reach out.
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top" height="220">
+
+### [Crossview](https://github.com/crossplane-contrib/crossview)
+
+<img src="https://img.shields.io/github/stars/crossplane-contrib/crossview?style=flat-square&label=Stars" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Crossplane-Platform?style=flat-square" />
+
+Explore and visualize Crossplane managed resources and their relationships.
+
+**Role:** Maintainer
+
+</td>
+<td width="50%" valign="top" height="220">
+
+### [Kikplate](https://github.com/kikplate/kikplate)
+
+Open-source engineering project focused on reusable software and platform capabilities.
+
+**Role:** Maintainer
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" height="220">
+
+### [CoIdea](https://coidea.co)
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+A collaboration platform connecting people around ideas and helping them build teams.
+
+**Role:** Founder & Engineer
+
+</td>
+<td width="50%" valign="top" height="220">
+
+### Engineering Focus
+
+- Internal Developer Platforms
+- Cloud-native architecture
+- Infrastructure orchestration
+- Distributed systems
+- Developer experience
+- Open-source ecosystems
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=moeidheidari&hide_border=true&bg_color=0d1117&color=94a3b8&line=3b82f6&point=60a5fa&area=true&area_color=1e3a5f" alt="Contribution activity"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=github_dark" alt="Profile summary"/>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moeidheidari&theme=github_dark" alt="GitHub statistics"/>
+</td>
+<td width="50%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moeidheidari&theme=github_dark" alt="Languages by repository"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moeidheidari&theme=github_dark" alt="Most used languages"/>
+</td>
+<td width="50%">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moeidheidari&theme=github_dark&utcOffset=1" alt="Productive time"/>
+</td>
+</tr>
+</table>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moeidheidari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://adplist.org/mentors/moeid-heidari"><img src="https://img.shields.io/badge/ADPList-FF5A5F?style=for-the-badge&logo=adplist&logoColor=white"/></a>
+  <a href="https://medium.com/@moeidheidari"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:moeidtopcoder2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <sub>Platform Engineering · Cloud Infrastructure · Open Source</sub>
+</p>
