@@ -29,9 +29,9 @@
 
 ## Technology
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top" height="190">
+<td width="50%" valign="top">
 
 ### Languages & Backend
 
@@ -46,7 +46,7 @@
 - Event-driven architecture
 
 </td>
-<td width="50%" valign="top" height="190">
+<td width="50%" valign="top">
 
 ### Cloud & Infrastructure
 
@@ -64,7 +64,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" height="190">
+<td width="50%" valign="top">
 
 ### Data & Messaging
 
@@ -79,7 +79,7 @@
 - Distributed data systems
 
 </td>
-<td width="50%" valign="top" height="190">
+<td width="50%" valign="top">
 
 ### DevOps & Observability
 
@@ -101,9 +101,9 @@
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top" height="220">
+<td width="50%" valign="top">
 
 ### [Crossview](https://github.com/crossplane-contrib/crossview)
 
@@ -116,7 +116,7 @@ Explore and visualize Crossplane managed resources and their relationships.
 **Role:** Maintainer
 
 </td>
-<td width="50%" valign="top" height="220">
+<td width="50%" valign="top">
 
 ### [Kikplate](https://github.com/kikplate/kikplate)
 
@@ -127,7 +127,7 @@ Open-source engineering project focused on reusable software and platform capabi
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" height="220">
+<td width="50%" valign="top">
 
 ### [CoIdea](https://coidea.co)
 
@@ -140,7 +140,7 @@ A collaboration platform connecting people around ideas and helping them build t
 **Role:** Founder & Engineer
 
 </td>
-<td width="50%" valign="top" height="220">
+<td width="50%" valign="top">
 
 ### Engineering Focus
 
@@ -167,20 +167,20 @@ A collaboration platform connecting people around ideas and helping them build t
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moeidheidari&theme=github_dark" alt="Profile summary"/>
 </p>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moeidheidari&theme=github_dark" alt="GitHub statistics"/>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moeidheidari&theme=github_dark" alt="Languages by repository"/>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moeidheidari&theme=github_dark" alt="Most used languages"/>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moeidheidari&theme=github_dark&utcOffset=1" alt="Productive time"/>
 </td>
 </tr>
